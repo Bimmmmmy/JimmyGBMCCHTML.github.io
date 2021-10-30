@@ -1,0 +1,10 @@
+body {
+  margin-top: 13.5rem;
+  color: #000000;
+  font: 300 16px/1.5 exo, ubuntu, "segoe ui", helvetica, arial, sans-serif;
+  text-align: center;
+  background: url($bg-url) repeat 0 0;
+    font-weight: 100;
+    font-style: normal;
+  }
+}
